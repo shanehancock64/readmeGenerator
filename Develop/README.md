@@ -1,4 +1,4 @@
-# asdf
+# README.md File Generator 
  
   ## Table of contents 
   * [license](#License)
@@ -11,17 +11,17 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  asdfd
+  A file generator that creates a .md file from questions asked in NODE.js. Simply answer the given questions and a file will be generated. 
 
   ## Installation
-  asdf
+  Simply install npm inquirer and run the index.js in node. 
 
   ## Repository
-  https://github.com/asdf/asdf
+  https://github.com/readmeGenerator/readmeGenerator
 
   ## Github
-  https://github.com/asdf
+  https://github.com/shanehancock64
 
   ## Contact 
-  asdf
+  shanehancock64@live.com
 
