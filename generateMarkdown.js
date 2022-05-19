@@ -43,8 +43,8 @@ function generateMarkdown(data) {
   * [license](#License)
   * [Description](#description)
   * [Installation](#Installation)
-  * [Links](#links)
-  * [contact](contact)
+  * [contact](#Contact)
+  * [Links] (#Links)
   
   ## License
   ${renderLicenseBadge(data.license)}
@@ -63,6 +63,10 @@ function generateMarkdown(data) {
 
   ## Contact 
   ${data.email}
+
+  ## Links
+
+  
 
 `;
 }
